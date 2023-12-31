@@ -7,7 +7,7 @@
       <livery>
 
         <name type="string"> Test</name>
-        <texture>Liveries/2048x2048/1_grey_egypt.png</texture>
+        <texture>Liveries/2048x2048/test.png</texture>
         <texture-tank-2000>tank2000.png</texture-tank-2000>
 
         <specular>
